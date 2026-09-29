@@ -1,0 +1,76 @@
+[   
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+   
+    {
+        "name": "Flask",
+        "icon": "https://cdn.simpleicons.org/flask"
+    },
+
+     {
+        "name": "Streamlit",
+        "icon": "https://cdn.simpleicons.org/streamlit"
+    },
+    {
+        "name": "NumPy",
+        "icon": "https://cdn.simpleicons.org/numpy"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://cdn.simpleicons.org/pandas"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    
+    {
+        "name": "Git ",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+
+    {
+    "name": "Kaggle",
+    "icon": "https://cdn.simpleicons.org/kaggle"
+  },
+  {
+    "name": "Anaconda",
+    "icon": "https://cdn.simpleicons.org/anaconda"
+  },
+  {
+  "name": "VS Code",
+  "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+},
+  {
+    "name": "Jupyter",
+    "icon": "https://cdn.simpleicons.org/jupyter"
+  }
+    
+]
