@@ -2,6 +2,12 @@
 
 A responsive, single-page portfolio for Pooja Thamb. It introduces her background and skills, and highlights her education, achievements, projects, and contact details.
 
+<p align="center">
+  <a href="https://poojathamb.github.io/Portfolio-Website/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_View-Live_Portfolio-ff69b4?style=for-the-badge" alt="View Live Portfolio">
+  </a>
+</p>
+
 ## Portfolio Sections
 
 - **Home:** Introduction, animated role text, social links, and particle background.
